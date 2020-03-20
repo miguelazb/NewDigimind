@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00ACAC</color>
+    <color name="colorPrimaryDark">#018787</color>
+    <color name="colorAccent">#C875BA</color>
+    <color name="gray">#A39F9F</color>
+    <color name="celdas">#9CE1E1</color>
+    <color name="preguntas">#915287</color>
+    <color name="texto_grid">#00579A</color>
+    <color name="black">#1c1c1c</color>
+</resources>
